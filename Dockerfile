@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:slim-16
+FROM node:16
 EXPOSE 3000
 WORKDIR /app
 ENV PATH /app/node_modules/.bin:$PATH
