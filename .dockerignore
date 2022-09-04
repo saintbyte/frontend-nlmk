@@ -1,0 +1,9 @@
+.git
+*Dockerfile*
+*docker-compose*
+node_modules
+npm-debug.log
+build
+.dockerignore
+Dockerfile
+Dockerfile.prod
